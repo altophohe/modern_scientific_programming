@@ -11,17 +11,6 @@
 - expectations: 
 
 
-
-## Guillaume
-
-- identifier: gnoblet
-- last name: noblet
-- first name: guillaume
-- operating system: manjaro
-- memory: 8go
-- research interest: topic modelling, text analysis, network analysis, quantitative history of economics
-- expectations: get insights on text analysis in python
-
 ## Cem
 
 - identifier:
@@ -31,3 +20,13 @@
 - memory: 8 GB
 - research interest:International Migration, Labor
 - expectations: Get familiar with all of these tools (e.g. Python, Julia etc.), learn more about webscrapping for collecting data.
+
+
+## Euiyoung
+- identifier:
+- last name: JUNG    
+- first name: Euiyoung
+- operating system: Windows
+- memory: 16 GB
+- research interest: Macroeconomics
+- expectations: Learning essence of dynamic programming. 
